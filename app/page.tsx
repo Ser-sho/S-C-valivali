@@ -15,7 +15,7 @@ export default function Home() {
       {/* IMAGE FIT FULLY */}
       <div className="flex-1 relative w-full">
         <Image
-          src="/us-cartoon2.png"
+          src="/images/us-cartoon2.png"
           alt="Us"
           fill
           priority
