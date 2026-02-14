@@ -62,7 +62,7 @@ export default function YearTwo() {
               />
             </div>
             <p className="mt-5 text-black text-sm">
-              Laughing and smiling together 😊
+              Every step we took back then carried more than distance — it carried love, healing, and connection 💞. Those walks were our sanctuary, and this picture holds the memory of days that shaped us, with many more to come 🌹.
             </p>
           </div>
         </div>
