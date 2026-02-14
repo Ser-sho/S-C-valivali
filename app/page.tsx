@@ -8,7 +8,7 @@ export default function Home() {
       {/* SMALL HEADING */}
       <div className="pt-4 text-center">
         <h1 className="text-lg md:text-xl font-semibold text-rose-600">
-          Happy  Day COLLINE ❤️
+          Happy Valentines Day COLLINE ❤️
         </h1>
       </div>
 
